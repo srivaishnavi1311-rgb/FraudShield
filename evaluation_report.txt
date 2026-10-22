@@ -1,0 +1,21 @@
+FRAUDSHIELD - MODEL EVALUATION REPORT
+=====================================
+
+Note: This is a practice example, not a real-world model evaluation.
+
+Confusion Matrix:
+[[2 1]
+ [1 2]]
+
+Accuracy: 66.67%
+
+Classification Report:
+              precision    recall  f1-score   support
+
+    LOW RISK       0.67      0.67      0.67         3
+  SUSPICIOUS       0.67      0.67      0.67         3
+
+    accuracy                           0.67         6
+   macro avg       0.67      0.67      0.67         6
+weighted avg       0.67      0.67      0.67         6
+

@@ -1,0 +1,6 @@
+FRAUDSHIELD RISK SUMMARY
+Total predictions: 2
+Low-risk predictions: 1
+Suspicious predictions: 1
+Suspicious percentage: 50.00%
+Highest transaction amount: Rs. 2000.00

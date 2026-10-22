@@ -1,0 +1,5 @@
+test_number,amount,international,prediction,test_result,timestamp
+1,2000,False,LOW RISK,PASS,2026-10-22 20:31:50
+2,2000,True,SUSPICIOUS,PASS,2026-10-22 20:31:50
+3,60000,False,SUSPICIOUS,PASS,2026-10-22 20:31:50
+4,1000,False,LOW RISK,PASS,2026-10-22 20:31:50
